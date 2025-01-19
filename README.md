@@ -1,4 +1,4 @@
-<body bg color="blue">
+<body bgcolor="blue">
 <center><h1>GOOD MORNING AKHIL</h1></center><br>
 <h1 style="color: red;">I Want Your Help I For That I Wil Increase Your Salary Upto 50Lakh Per Year</h1><br>
 <h1 style="color: yellow;">Your Pic And Your Details In a PPT</h1>
