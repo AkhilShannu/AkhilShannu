@@ -1,4 +1,4 @@
-<h1>GOOD MORNING AKHIL</h1><br>
+<center><h1>GOOD MORNING AKHIL</h1></center><br>
 <h1>I Want Your Help I For That I Wil Increase Your Salary Upto 50Lakh Per Year</h1><br>
 <h1>Your Pic And Your Details In a PPT</h1>
 <img src="https://cdn.dlcompare.com/game_tetiere/upload/gameimage/file/7337.jpeg.webp">
