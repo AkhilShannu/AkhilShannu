@@ -5,5 +5,5 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgywfBZ59qYS0z-DWqLOUSeLL5hdzV4rQJzg&s">
 <img src="https://imgd.aeplcdn.com/1056x594/n/zp6pseb_1777219.jpg?q=80">
 <center><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgywfBZ59qYS0z-DWqLOUSeLL5hdzV4rQJzg&s">GTA V logo</a></center><br> <br>
-<center><a href="https://www.rockstargames.com"><b><u>ROCKSTAR</u></b></a></center>
+<center><a href="https://www.rockstargames.com"><b><u><i>ROCKSTAR</i></u></b></a></center>
 <center><h1 style="color: blue;">THANK YOU FOR VISITING OUR PAGE</h1></center> 
